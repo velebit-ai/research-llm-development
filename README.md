@@ -9,6 +9,7 @@ Development with Large Language Models
 **Hosted by**
 
 Mladen Fernežir
+
 Co-founder and Lead Data Scientist, Velebit AI
 
 **Short description**
@@ -20,8 +21,9 @@ We will use Google Colab and Kaggle Notebooks to go through some examples of wha
 Your laptop, experience with Python and Jupyter notebooks, OpenAI API key, free Hugging Face account, free Kaggle account (requires phone verification for free GPU access)
 
 ## Content
-**Improve ChatGPT with Knowledge Graphs**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//velebit-ai/research-llm-development/blob/master/Improve_ChatGPT_with_Knowledge_Graphs.ipynb)
+**Improve ChatGPT with Knowledge Graphs**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/velebit-ai/research-llm-development/blob/master/Improve_ChatGPT_with_Knowledge_Graphs.ipynb)
 
 ## Credits and acknowledgements
 
 1. [Maxime Labonne's LLM course](https://github.com/mlabonne/llm-course)
+2. [Talebi S. YouTube-Blog. 2023. https://github.com/ShawhinT/YouTube-Blog](https://github.com/ShawhinT/YouTube-Blog/tree/main)
