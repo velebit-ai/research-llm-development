@@ -27,7 +27,11 @@ Your laptop, experience with Python and Jupyter notebooks, OpenAI API key, free 
 
 **Improve ChatGPT with Knowledge Graphs**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/velebit-ai/research-llm-development/blob/master/Improve_ChatGPT_with_Knowledge_Graphs.ipynb)
 
-## Credits and acknowledgements
+**Q/A with LLMs + Harry Potter & Mistral HF API**&emsp;[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/acorn8/q-a-with-llms-harry-potter-mistral-hf-api?scriptVersionId=145894271)
+
+
+## Acknowledgements
 
 1. [Maxime Labonne's LLM course](https://github.com/mlabonne/llm-course)
-2. [Talebi S. YouTube-Blog. 2023. https://github.com/ShawhinT/YouTube-Blog](https://github.com/ShawhinT/YouTube-Blog/tree/main)3. 
+2. [Talebi S. YouTube-Blog. 2023. https://github.com/ShawhinT/YouTube-Blog](https://github.com/ShawhinT/YouTube-Blog/tree/main)
+3. [Rafael Levy, Q/A chatbot with LLMs + Harry Potter](https://www.kaggle.com/code/hinepo/q-a-chatbot-with-llms-harry-potter)
