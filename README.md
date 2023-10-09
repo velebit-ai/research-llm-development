@@ -21,9 +21,13 @@ We will use Google Colab and Kaggle Notebooks to go through some examples of wha
 Your laptop, experience with Python and Jupyter notebooks, OpenAI API key, free Hugging Face account, free Kaggle account (requires phone verification for free GPU access)
 
 ## Content
+**Hugging Face Sentiment Analysis, Summarization, and Chat Demos on HF Spaces**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//velebit-ai/research-llm-development/blob/master/Hugging_Face_Sentiment_Analysis_Chat_and_Summarization_Demos.ipynb)
+
+**Hugging Face Mistral Chat API Demo**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/velebit-ai/research-llm-development/blob/master/Mistral_instruct_Gradio.ipynb)
+
 **Improve ChatGPT with Knowledge Graphs**&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/velebit-ai/research-llm-development/blob/master/Improve_ChatGPT_with_Knowledge_Graphs.ipynb)
 
 ## Credits and acknowledgements
 
 1. [Maxime Labonne's LLM course](https://github.com/mlabonne/llm-course)
-2. [Talebi S. YouTube-Blog. 2023. https://github.com/ShawhinT/YouTube-Blog](https://github.com/ShawhinT/YouTube-Blog/tree/main)
+2. [Talebi S. YouTube-Blog. 2023. https://github.com/ShawhinT/YouTube-Blog](https://github.com/ShawhinT/YouTube-Blog/tree/main)3. 
